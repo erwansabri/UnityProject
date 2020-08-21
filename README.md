@@ -1,2 +1,3 @@
-# UnityProject
- My Unity projects
+# UnityProjects
+
+This is where I stack my personnal projects on Unity !
